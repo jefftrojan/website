@@ -1,0 +1,7 @@
+1. Setup CI/CD -- Paul 
+2. Spin amplify Instance -- Paul 
+3. Setup express static server -- Paul 
+4. Work on UI -- Wens 
+5. Setup DNS and link to amplify -- Paul  
+
+
