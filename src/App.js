@@ -20,7 +20,7 @@ function App() {
           <ColorModeSwitcher justifySelf="flex-end" />
           <VStack spacing={8}>
             <Text>
-             Coming Soon! You can reach out via email: community@aluopensource.com
+             Coming Soon! Fork, contribute and merge!
             </Text>
           </VStack>
         </Grid>
